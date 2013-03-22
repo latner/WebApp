@@ -1,0 +1,4 @@
+WebApp
+======
+
+Scala webapp playground
